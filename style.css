@@ -67,7 +67,7 @@ flex:2;
     
     margin: 10px 50px 0px 50px;
     height:90vh;
-    background-image: url("images/cover1.jpg");
+    background-image: url("cover1.jpg");
     background-size: 100% 100%;
     display: block;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ flex:2;
 .reclam{
     margin: 20px 50px 0px 50px;
     height: 100vh;
-    background-image: url("images/art1.jpg");
+    background-image: url("art1.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 55px 55px 55px 55px;
@@ -182,7 +182,7 @@ flex:2;
  }
  .training-men{
  flex: 1;
- background-image: url("images/fitness.jpg");
+ background-image: url("fitness.jpg");
  background-size: 100% 100%;
  justify-content: space-between;
  margin-right: 5px;
@@ -207,7 +207,7 @@ flex:2;
  .training-women{
  margin-left: 5px;
  flex: 1;
- background-image: url("images/fitness1.jpg");
+ background-image: url("fitness1.jpg");
  background-size: 100% 100%;
  border-radius: 55px 55px 55px 55px;
 
@@ -219,7 +219,7 @@ flex:2;
     border-radius: 55px 55px 55px 55px;
     margin: 20px 50px 0px 50px;
     height: 100vh;
-    background-image: url("images/jacket.jpg");
+    background-image: url("jacket.jpg");
     justify-content: center;
     
 }
